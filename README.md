@@ -1,4 +1,4 @@
-# Práctica 5
+# Práctica 4
 En esta práctica, revisaremos los algoritmos de ordenamiento que no se basan en comparaciones y, bajo ciertas condiciones, corren en tiempo lineal: Counting Sort y Radix Sort. 
 
 Adicionalmente, revisaremos los algoritmos de búsqueda lineal y binaria. 
